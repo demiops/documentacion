@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://www.demiops.com/ayuda.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/en/ayuda.html" /> </url>
+<url> <loc>http://www.demiops.com/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/en/help.html" /> </url>
+<url> <loc>http://www.demiops.com/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/en/index.html" /> </url>
+<url> <loc>http://www.demiops.com/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/en/users.html" /> </url>
+<url> <loc>http://www.demiops.com/blog/2017/10/24/new-version-1.0.0.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.demiops.com/blog/2017/09/26/adding-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.demiops.com/blog/2017/09/25/testing-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.demiops.com/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.demiops.com/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.demiops.com/docs/api.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/api.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/demiops.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/demiops.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-cd.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-cd.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-ci.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-ci.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-cluster.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-cluster.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-dispositivos.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-dispositivos.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-edge-cluster.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-edge-cluster.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-gateways.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-gateways.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-metricas.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-metricas.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud-registros.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud-registros.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/iotcloud.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/iotcloud.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud-cd.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud-cd.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud-ci.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud-ci.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud-cluster.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud-cluster.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud-metricas.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud-metricas.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud-registros.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud-registros.html" /> </url>
+<url> <loc>http://www.demiops.com/docs/spincloud.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.demiops.com/docs/spincloud.html" /> </url>
+</urlset>
